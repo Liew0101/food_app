@@ -1,2 +1,1 @@
-กรรชัย
-kanchai
+Kanchai
