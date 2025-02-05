@@ -1,4 +1,4 @@
-import 'package:flutter/material.';
+import 'package:flutter/material.dart';
 
 class Page1 extends StatelessWidget {
   final String title;
